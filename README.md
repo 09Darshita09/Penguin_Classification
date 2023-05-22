@@ -39,7 +39,7 @@ The dataset has 333 samples and the count of each species is:
 
 [![kaggle](https://img.shields.io/badge/kaggle-46d2ff?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/darshitapangam )
 
-
+[![edgeimpulse](https://custom-icon-badges.demolab.com/badge/edge_impulse-007272?style=for-the-badge&logo=edge_impulse)](https://studio.edgeimpulse.com/studio/profile/projects)
 
 
 
