@@ -1,5 +1,7 @@
 
-# Penguin Species Classification🐧
+# ====== 🐧 Penguin Species Classification 🐧 ======
+
+## Description
 
 Here four supervised machine learning algorithms are used to prediction for a multiclass classification dataset. This project showcases a simple implementation, tuning, and comparison of Logistic Regression, K Nearest Neighbors, Decision Tree, and Random Forest.
 
@@ -29,9 +31,7 @@ The dataset has 333 samples and the count of each species is:
 
 ![alt text](https://github.com/09Darshita09/Penguin_Classification/blob/main/images/Penguin%20Species%20Count.png)
 
-PS: The images are taken from the above mentioned dataset
-
-## 🔗 Links
+## 🔗 Reach me at:
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshita-pangam/) 
 
